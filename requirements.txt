@@ -6,6 +6,9 @@ xgboost
 numpy 
 pandas 
 matplotlib
+scikit-learn
+DateTime
+missingno
 #.pyplot 
 #as plt
 #from matplotlib import rc
