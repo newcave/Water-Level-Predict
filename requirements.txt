@@ -6,6 +6,7 @@ xgboost
 numpy 
 pandas 
 matplotlib
+sklearn
 scikit-learn
 DateTime
 missingno
