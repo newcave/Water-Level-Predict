@@ -2,6 +2,7 @@
 tensorflow
 #tensorflow.keras.callbacks 
 #as callbacks
+sklearn
 xgboost
 numpy 
 pandas 
