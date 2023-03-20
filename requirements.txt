@@ -1,5 +1,5 @@
 os
-tensorflow as tf
+tensorflow
 #tensorflow.keras.callbacks as callbacks
 #xgboost
 #numpy as np
