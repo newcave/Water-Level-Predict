@@ -5,6 +5,7 @@ tensorflow
 xgboost
 numpy 
 pandas 
-matplotlib.pyplot 
+matplotlib
+#.pyplot 
 #as plt
 #from matplotlib import rc
